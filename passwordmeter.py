@@ -7,8 +7,8 @@ st.set_page_config(page_title="Password Streanght Checker By Umm-E-Habiba" , pag
 st.markdown(""" 
 <style>
     .main {text-align: center;}
-    .stTextInput {width:50%, background-colour #4CAF50; color: white; font-size: 10px;}
-    .stButton button:hover {background-color: #45a049;}
+    .stTextInput {width:50%, background-colourrgb(199, 71, 216); color: white; font-size: 10px;}
+    .stButton button:hover {background-color: blue; color: white;}
  </style>
 """ , unsafe_allow_html=True)
 
